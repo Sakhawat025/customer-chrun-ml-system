@@ -1,0 +1,19 @@
+{
+    "model_family": "XGBoost",
+    "selection_metric": "Average Precision",
+    "cv_average_precision": 0.6729791877873071,
+    "cv_f1": 0.636973697373231,
+    "cv_recall": 0.7397993311036789,
+    "cv_roc_auc": 0.8504445735630147,
+    "best_parameters": {
+        "classifier__subsample": 0.8,
+        "classifier__scale_pos_weight": 2.0764,
+        "classifier__reg_lambda": 1.0,
+        "classifier__reg_alpha": 0.5,
+        "classifier__n_estimators": 150,
+        "classifier__min_child_weight": 1,
+        "classifier__max_depth": 2,
+        "classifier__learning_rate": 0.05,
+        "classifier__colsample_bytree": 0.8
+    }
+}

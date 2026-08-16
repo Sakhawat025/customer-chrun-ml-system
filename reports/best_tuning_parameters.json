@@ -1,0 +1,18 @@
+{
+    "XGBoost": {
+        "classifier__subsample": 0.8,
+        "classifier__scale_pos_weight": 2.0764,
+        "classifier__reg_lambda": 1.0,
+        "classifier__reg_alpha": 0.5,
+        "classifier__n_estimators": 150,
+        "classifier__min_child_weight": 1,
+        "classifier__max_depth": 2,
+        "classifier__learning_rate": 0.05,
+        "classifier__colsample_bytree": 0.8
+    },
+    "Logistic Regression": {
+        "classifier__penalty": "l1",
+        "classifier__class_weight": null,
+        "classifier__C": 1.0
+    }
+}
