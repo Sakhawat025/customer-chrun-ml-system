@@ -1,0 +1,7 @@
+{
+    "model_family": "XGBoost",
+    "threshold_selection_data": "training cross-validation only",
+    "optimization_metric": "F1",
+    "selected_threshold": 0.4825977087020874,
+    "cv_f1_at_threshold": 0.6382508973982555
+}
