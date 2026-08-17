@@ -1,0 +1,29 @@
+{
+    "project": "Customer Churn Prediction",
+    "model_family": "XGBoost",
+    "selection_metric": "Average Precision",
+    "decision_threshold": 0.4825977087020874,
+    "training_rows": 7043,
+    "features": [
+        "gender",
+        "SeniorCitizen",
+        "Partner",
+        "Dependents",
+        "tenure",
+        "PhoneService",
+        "MultipleLines",
+        "InternetService",
+        "OnlineSecurity",
+        "OnlineBackup",
+        "DeviceProtection",
+        "TechSupport",
+        "StreamingTV",
+        "StreamingMovies",
+        "Contract",
+        "PaperlessBilling",
+        "PaymentMethod",
+        "MonthlyCharges",
+        "TotalCharges"
+    ],
+    "created_at": "2026-08-17 13:02:09.971157"
+}
