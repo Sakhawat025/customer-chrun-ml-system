@@ -1,0 +1,9 @@
+{
+    "model_family": "XGBoost",
+    "decision_threshold": 0.4825977087020874,
+    "explained_customer": "5178-LMXOP",
+    "churn_probability": 0.9343777298927307,
+    "predicted_class": 1,
+    "permutation_metric": "average_precision",
+    "shap_sample_size": 300
+}

@@ -1,0 +1,47 @@
+Feature,Transformed Value,SHAP Value,Absolute SHAP
+num__tenure,-1.2816237461508113,0.88685036,0.88685036
+cat__Contract_Month-to-month,1.0,0.41708314,0.41708314
+cat__InternetService_Fiber optic,1.0,0.22249138,0.22249138
+cat__OnlineSecurity_No,1.0,0.19482224,0.19482224
+cat__PaymentMethod_Electronic check,1.0,0.1783402,0.1783402
+num__TotalCharges,-0.9671929580031219,0.16903716,0.16903716
+num__MonthlyCharges,1.001148431330336,0.15220751,0.15220751
+cat__TechSupport_No,1.0,0.14043711,0.14043711
+cat__MultipleLines_No,0.0,0.090674385,0.090674385
+cat__OnlineBackup_No,1.0,0.08129954,0.08129954
+cat__SeniorCitizen_0,0.0,0.08012422,0.08012422
+cat__PaperlessBilling_No,0.0,0.07851431,0.07851431
+cat__Contract_Two year,0.0,0.07776394,0.07776394
+cat__StreamingTV_Yes,1.0,0.050837792,0.050837792
+cat__StreamingMovies_Yes,1.0,0.037336312,0.037336312
+cat__Dependents_No,1.0,0.018911524,0.018911524
+cat__PaperlessBilling_Yes,1.0,0.016407052,0.016407052
+cat__MultipleLines_Yes,1.0,0.0121397525,0.0121397525
+cat__Contract_One year,0.0,-0.0119450195,0.0119450195
+cat__gender_Female,0.0,0.011290697,0.011290697
+cat__InternetService_No,0.0,0.010522656,0.010522656
+cat__SeniorCitizen_1,1.0,0.009020026,0.009020026
+cat__InternetService_DSL,0.0,0.008931657,0.008931657
+cat__StreamingMovies_No,0.0,0.006809718,0.006809718
+cat__StreamingTV_No,0.0,0.0055873347,0.0055873347
+cat__PhoneService_No,0.0,-0.0032936619,0.0032936619
+cat__DeviceProtection_Yes,0.0,-0.0018550511,0.0018550511
+cat__gender_Male,1.0,0.0014111324,0.0014111324
+cat__TechSupport_Yes,0.0,0.0012453853,0.0012453853
+cat__OnlineSecurity_Yes,0.0,-0.00085214444,0.00085214444
+cat__PhoneService_Yes,1.0,-6.2102066e-05,6.2102066e-05
+cat__Dependents_Yes,0.0,0.0,0.0
+cat__Partner_No,0.0,0.0,0.0
+cat__Partner_Yes,1.0,0.0,0.0
+cat__OnlineBackup_No internet service,0.0,0.0,0.0
+cat__OnlineSecurity_No internet service,0.0,0.0,0.0
+cat__MultipleLines_No phone service,0.0,0.0,0.0
+cat__DeviceProtection_No,1.0,0.0,0.0
+cat__TechSupport_No internet service,0.0,0.0,0.0
+cat__DeviceProtection_No internet service,0.0,0.0,0.0
+cat__OnlineBackup_Yes,0.0,0.0,0.0
+cat__StreamingTV_No internet service,0.0,0.0,0.0
+cat__StreamingMovies_No internet service,0.0,0.0,0.0
+cat__PaymentMethod_Bank transfer (automatic),0.0,0.0,0.0
+cat__PaymentMethod_Credit card (automatic),0.0,0.0,0.0
+cat__PaymentMethod_Mailed check,0.0,0.0,0.0
